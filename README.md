@@ -1,3 +1,3 @@
 # daily-playground
 Hi there is a Playgorund you can update daily
-contribution streak: 1
+contribution streak: 2
